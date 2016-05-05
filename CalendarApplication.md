@@ -4,7 +4,7 @@ Cubi Calendar is an open source calendar and event management application releas
 
 ## Installation ##
 
-Download the source from SVN. https://openbiz-cubi.googlecode.com/svn/trunk/apps/calendar
+Download the source from SVN. https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/apps/calendar
 
 As Calendar is a Cubi application, you can copy the calendar folder into cubi/modules/. The load Calendar into Cubi platform with command
 ```
@@ -18,34 +18,34 @@ Launch Cubi in your browser, you should see a new tab called "Calendar" in the a
 
 Calendar listing
 
-![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_list.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_list.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_list.png](https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_list.png)
 
 Calendar month view
 
-![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_month.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_month.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_month.png](https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_month.png)
 
 Calendar month view with event tooltip
 
-![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_tooltip.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_tooltip.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_tooltip.png](https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_tooltip.png)
 
 Calendar detail
 
-![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_detail.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_detail.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_detail.png](https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_detail.png)
 
 Calendar edit
 
-![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_edit.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_edit.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_edit.png](https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_edit.png)
 
 Calendar list by assignment
 
-![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_assign.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_assign.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_assign.png](https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_assign.png)
 
 Calendar type
 
-![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_type_list.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_type_list.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_type_list.png](https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_type_list.png)
 
 Calendar type extended fields
 
-![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_type_with_extfield.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_type_with_extfield.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_type_with_extfield.png](https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_type_with_extfield.png)
 
-![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_with_extfield.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_with_extfield.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_with_extfield.png](https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_with_extfield.png)
