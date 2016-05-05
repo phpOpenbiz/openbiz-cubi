@@ -21,5 +21,5 @@ Demo site http://dev.openbiz.cn, username: share1123, password: shareme.
 ### Developer Forum ###
   * http://groups.google.com/group/openbiz-cubi
 
-### International Wiki Page ###
-  * [Bahasa Indonesia](http://code.google.com/p/openbiz-cubi/wiki/Home?wl=id)
+### Documentation ###
+  * [Wiki](Home.md)
