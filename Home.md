@@ -1,5 +1,7 @@
-[![](http://openbiz-cubi.googlecode.com/svn/trunk/docs/img/cubi_intro/cubi_banner.jpg)](http://code.google.com/p/openbiz-cubi/downloads/list)
-[![](http://openbiz-cubi.googlecode.com/svn/trunk/docs/img/screenshots.png)](http://code.google.com/p/openbiz-cubi/wiki/CubiScreenShots)
+[![](https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/cubi_intro/cubi_banner.jpg)](http://code.google.com/p/openbiz-cubi/downloads/list)
+[![](https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/screenshots.png)](http://code.google.com/p/openbiz-cubi/wiki/CubiScreenShots)
+
+
 ## Openbiz Cubi Platform ##
 Openbiz Cubi Platform is a php based rapid application development platform.
 The goal of Cubi is to provide commonly used modules and a set of tools in a platform level. It will boost the productivity of all types of web application development.
