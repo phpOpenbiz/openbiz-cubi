@@ -1,4 +1,4 @@
-[![](http://openbiz-cubi.googlecode.com/svn/trunk/docs/img/cubi_intro/cubi_banner.jpg)](http://code.google.com/p/openbiz-cubi/downloads/list)
+[![](https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/cubi_intro/cubi_banner.jpg)](http://code.google.com/p/openbiz-cubi/downloads/list)
 
 ## Openbiz Cubi Platform ##
 Openbiz Cubi Platform is a php based rapid application development platform.
