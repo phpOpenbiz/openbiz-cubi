@@ -18,34 +18,34 @@ Launch Cubi in your browser, you should see a new tab called "Calendar" in the a
 
 Calendar listing
 
-![https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_list.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_list.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_list.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_list.png)
 
 Calendar month view
 
-![https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_month.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_month.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_month.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_month.png)
 
 Calendar month view with event tooltip
 
-![https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_tooltip.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_tooltip.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_tooltip.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_tooltip.png)
 
 Calendar detail
 
-![https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_detail.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_detail.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_detail.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_detail.png)
 
 Calendar edit
 
-![https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_edit.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_edit.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_edit.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_edit.png)
 
 Calendar list by assignment
 
-![https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_assign.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_assign.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_assign.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_assign.png)
 
 Calendar type
 
-![https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_type_list.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_type_list.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_type_list.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_type_list.png)
 
 Calendar type extended fields
 
-![https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_type_with_extfield.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_type_with_extfield.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_type_with_extfield.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_type_with_extfield.png)
 
-![https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_with_extfield.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_with_extfield.png)
+![https://raw.githubusercontent.com/phpOpenbiz/openbiz-cubi/master/docs/img/calendar/calendar_with_extfield.png](https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/calendar/calendar_with_extfield.png)
